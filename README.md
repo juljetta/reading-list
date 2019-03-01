@@ -1,4 +1,4 @@
-# reading-list
+# design-reading-list
 **READ**
 
 * Steve Krug "Don't Make Me Think" 
