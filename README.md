@@ -9,10 +9,13 @@
 * Artiom Dashinsky "Solving Product Design Exercises"
 * Jesse James Garrett "The Elements of User Experience: User-Centered Design for the Web"
 * Steve Krug "Rocket Surgery Made Easy"
+* Alla Kholmatova "Design Systems: practical guide to creating effective design languages for digital products"
+* Khoi Vinh "Ordering Disorder: Grid Principles for Web Design"
+
 
 **CURRENTLY READING**
-* Khoi Vinh "Ordering Disorder: Grid Principles for Web Design"
 * Peter Morville "Information Architecture for the World Wide Web: Designing Large-Scale Web Sites"
 
 **TO READ**
 * Alan Cooper "About Face"
+* Jon Ducket "JavaScript&JQuery"
